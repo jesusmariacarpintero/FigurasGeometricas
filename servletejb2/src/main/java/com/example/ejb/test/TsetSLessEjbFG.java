@@ -11,7 +11,7 @@ import com.example.ejb.domain.Esfera;
 
 public class TsetSLessEjbFG {
 
-	// private Calculo calculo;
+	// private Calculo calculo cambio;
 	
 	@Test
 	public void testCubo(){
